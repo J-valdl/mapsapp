@@ -5,7 +5,7 @@ import { CommonModule } from '@angular/common';
 //import * as mapboxgl from 'mapbox-gl';
 //(mapboxgl as any).accessToken = 'pk.eyJ1Ijoia2xlcml0aCIsImEiOiJja3hramV2OWIwbjEwMzFwYzJlZWl6N2g5In0.iKXPpYvo7UPRiiZ-x_lCrw';
 
-import mapboxgl from 'mapbox-gl';
+//import mapboxgl from 'mapbox-gl';
 //mapboxgl.accessToken = 'pk.eyJ1Ijoia2xlcml0aCIsImEiOiJja3hramV2OWIwbjEwMzFwYzJlZWl6N2g5In0.iKXPpYvo7UPRiiZ-x_lCrw';
 
 
