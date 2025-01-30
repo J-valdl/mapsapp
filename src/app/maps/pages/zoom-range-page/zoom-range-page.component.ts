@@ -3,8 +3,7 @@ import { LngLat, Map } from 'mapbox-gl';
 
 @Component({
   templateUrl: './zoom-range-page.component.html',
-  styleUrls: ['./zoom-range-page.component.css'],
-  standalone:false
+  styleUrls: ['./zoom-range-page.component.css']
 })
 export class ZoomRangePageComponent implements AfterViewInit, OnDestroy {
 

@@ -3,7 +3,6 @@ import { Map, Marker } from 'mapbox-gl';
 
 @Component({
   selector: 'map-mini-map',
-  standalone: false,
   templateUrl: './mini-map.component.html',
   styleUrls: ['./mini-map.component.css']
 })

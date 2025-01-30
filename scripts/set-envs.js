@@ -15,3 +15,8 @@ export const environment = {
 mkdirSync('./src/environments', { recursive: true });
 
 writeFileSync( targetPath, envFileContent );
+
+
+
+
+

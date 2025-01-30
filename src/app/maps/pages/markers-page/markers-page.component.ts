@@ -14,8 +14,7 @@ interface PlainMarker {
 
 @Component({
   templateUrl: './markers-page.component.html',
-  styleUrls: ['./markers-page.component.css'],
-  standalone: false
+  styleUrls: ['./markers-page.component.css']
 })
 export class MarkersPageComponent {
 

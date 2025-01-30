@@ -10,8 +10,7 @@ interface House {
 
 @Component({
   templateUrl: './properties-page.component.html',
-  styleUrls: ['./properties-page.component.css'],
-  standalone: false
+  styleUrls: ['./properties-page.component.css']
 })
 export class PropertiesPageComponent {
 
